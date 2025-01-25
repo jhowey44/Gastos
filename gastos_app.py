@@ -1,7 +1,13 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[1]:
+# In[8]:
+
+
+pip install plotly
+
+
+# In[2]:
 
 
 import streamlit as st
